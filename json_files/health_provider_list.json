@@ -1,0 +1,90 @@
+[
+  {
+    "id":1,
+    "name":"Chrisus Trinity",
+    "address":"E Murchison St",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0},
+  {
+    "id":2,
+    "name":"Crossroads Family Care",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0},
+  {
+    "id":3,
+    "name":"Dermatology Associates-Tyler",
+    "address":"W Oak St",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":4,
+    "name":"East Tx Family Medicine Pa",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":5,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":6,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":7,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":8,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":9,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  },
+  {
+    "id":10,
+    "name":"Test",
+    "address":"S Loop 256",
+    "city":"Palestine",
+    "state":"Texas",
+    "zip":77340,
+    "distance":100.0
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "id":1,
+  "fname":"Jane",
+  "lname":"Henderson",
+  "profile_pic":"https://engineering.unl.edu/images/staff/Kayla-Person.jpg",
+  "dob":"2006-04-02",
+  "gender":1,
+  "email":"shanikachp@gmail.com",
+  "classification":2,
+  "loi_list":[
+    {
+      "id":1,
+      "name":"J Home",
+      "longitude":6783.98,
+      "latitude":5432.78
+    },
+    {
+      "id":2,
+      "name":"J High School",
+      "longitude":6783.98,
+      "latitude":5432.78
+    },
+    {
+      "id":3,
+      "name":"J new",
+      "longitude":6783.98,
+      "latitude":5432.78
+    },
+    {
+      "id":4,
+      "name":"J new new",
+      "longitude":6783.98,
+      "latitude":5432.78
+    }
+  ],
+  "provider_result_list":[
+    {
+      "id":1,
+      "name":"Eye doctors",
+      "saved_datetime":"2023-06-04",
+      "provider_list":[
+            {"id":1,
+              "name":"Chrisus Trinity",
+              "address":"E Murchison St",
+              "city":"Palestine",
+              "state":"Texas",
+              "zip":77340,
+              "distance":100.0
+            },
+            {"id":2,
+              "name":"Crossroads Family Care",
+              "address":"S Loop 256",
+              "city":"Palestine",
+              "state":"Texas",
+              "zip":77340,
+              "distance":100.0
+            }
+      ]
+    },
+    {
+      "id":2,
+      "name":"Nutritions",
+      "saved_datetime":"2023-06-04",
+      "provider_list":[
+        {"id":1,
+          "name":"Chrisus Trinity",
+          "address":"E Murchison St",
+          "city":"Palestine",
+          "state":"Texas",
+          "zip":77340,
+          "distance":100.0
+        },
+        {"id":2,
+          "name":"Crossroads Family Care",
+          "address":"S Loop 256",
+          "city":"Palestine",
+          "state":"Texas",
+          "zip":77340,
+          "distance":100.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id":1,
+    "name":"Allergy and immunology"
+  },
+  {
+    "id":2,
+    "name":"Anesthesiology"
+  },
+  {
+    "id":3,
+    "name":"Dermatology"
+  },
+  {
+    "id":4,
+    "name":"Diagnostic radiology"
+  },
+  {
+    "id":5,
+    "name":"Emergency medicine"
+  },
+  {
+    "id":6,
+    "name":"Family medicine"
+  },
+  {
+    "id":7,
+    "name":"Internal medicine"
+  },
+  {
+    "id":8,
+    "name":"Medical genetics and genomics"
+  },
+  {
+    "id":9,
+    "name":"Neurological surgery"
+  },
+  {
+    "id":10,
+    "name":"Nuclear medicine"
+  },
+  {
+    "id":11,
+    "name":"Obstetrics and gynecology"
+  },
+  {
+    "id":12,
+    "name":"Ophthalmology"
+  },
+  {
+    "id":13,
+    "name":"Orthopedic Surgery"
+  },
+  {
+    "id":14,
+    "name":"Otolaryngology"
+  },
+  {
+    "id":15,
+    "name":"Pathology"
+  },
+  {
+    "id":16,
+    "name":"Pediatrics"
+  },
+  {
+    "id":17,
+    "name":"Physical medicine and rehabilitation"
+  },
+  {
+    "id":18,
+    "name":"Plastic surgery"
+  },
+  {
+    "id":19,
+    "name":"Preventive medicine"
+  },
+  {
+    "id":20,
+    "name":"Psychiatry and neurology"
+  },
+  {
+    "id":21,
+    "name":"Radiation"
+  },
+  {
+    "id":22,
+    "name":"Surgery"
+  },
+  {
+    "id":23,
+    "name":"Urology"
+  },
+  {
+    "id":24,
+    "name":"Dental"
+  },
+  {
+    "id":25,
+    "name":"Pharmacological"
+  }
+]
