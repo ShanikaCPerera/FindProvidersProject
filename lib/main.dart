@@ -32,7 +32,6 @@ void main() async {
     initialRoute: '/',
     routes: {
       '/': (context) => const SignIn(),
-      //'/loading': (context) => Loading(),
       '/signup': (context) => const SignUp(),
       '/home': (context) => const Home(),
       '/find_providers': (context) => const FindProviders(),
