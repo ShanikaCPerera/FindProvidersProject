@@ -22,14 +22,19 @@ import 'auth_service.dart';
 class ApiProvider {
 
   final networkHandler = NetworkHandler();
-  final String BASE_URL = "10.0.2.2:7143";
+  //final String BASE_URL = "10.0.2.2:7143";
+  final String BASE_URL = "3.129.195.132";
 
   String _urlFormatter(String path) {
+    String path1 = "/HealthResourceAPI/";
+    path = path1+path;
     String url = "https://$BASE_URL$path";
     return url;
   }
 
   Uri _uriFormatter({required String path, Map<String, dynamic>? queryParameters}) {
+    String path1 = "/HealthResourceAPI";
+    path = path1+path;
     Uri uri = Uri.https(BASE_URL, path, queryParameters);
     return uri;
   }

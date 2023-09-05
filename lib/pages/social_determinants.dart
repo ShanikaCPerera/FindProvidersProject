@@ -227,7 +227,7 @@ class _SocialDeterminantsState extends State<SocialDeterminants> {
                       ListTile(
                         visualDensity: const VisualDensity(vertical: -4),
                         title: const Text(
-                          'Validation of a Script to Facilitate Social Determinant of Health Conversations with Adolescent Patients[14]',
+                          'Validation of a Script to Facilitate Social Determinant of Health Conversations with Adolescent Patients',
                           style: TextStyle(
                             color: AppColor.primaryTextColor,
                           ),
@@ -239,7 +239,7 @@ class _SocialDeterminantsState extends State<SocialDeterminants> {
                             color: AppColor.primaryThemeColor,
                           ),
                           onPressed: () {
-                            downloadSurveyTemplate("Validation of a Script to Facilitate Social Determinant of Health Conversations with Adolescent Patients[14].pdf");
+                            downloadSurveyTemplate("Validation of a Script to Facilitate Social Determinant of Health Conversations with Adolescent Patients.pdf");
                           },
                         ),
                         onTap: null,

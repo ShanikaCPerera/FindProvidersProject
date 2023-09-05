@@ -59,7 +59,7 @@ class _NewLoiGoogleState extends State<NewLoiGoogle> {
   }
 
   void getSuggestion(String input) async{
-    String apiKey = 'GOOGLE_API_KEY';
+    String apiKey = '';
     String baseURL = 'https://maps.googleapis.com/maps/api/place/autocomplete/json';
     String request = '$baseURL?'
         'input=$input&'
@@ -82,7 +82,7 @@ class _NewLoiGoogleState extends State<NewLoiGoogle> {
   }
 
   Future<Map<String, dynamic>> getPlaceGeoLocation(String placeId) async {
-    String apiKey = 'GOOGLE_API_KEY';
+    String apiKey = '';
     final String url = 'https://maps.googleapis.com/maps/api/place/details/json?'
         'place_id=$placeId&'
         'key=$apiKey';
